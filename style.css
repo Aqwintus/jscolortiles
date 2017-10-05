@@ -1,0 +1,34 @@
+.a {
+  float: left;
+  width: 20%;
+  height: 30%;
+  background-color: orange;
+}
+
+.b {
+  float: left;
+  width: 20%;
+  height: 70%;
+  background-color: black;
+}
+
+.c {
+  float: right;
+  width: 80%;
+  height: 80%;
+  background-color: grey;
+}
+
+.d {
+  float: right;
+  width: 40%;
+  height: 20%;
+  background-color: #DDDDDD;
+}
+
+.e {
+  float: right;
+  width: 40%;
+  height: 20%;
+  background-color: green;
+}
